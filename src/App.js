@@ -4,6 +4,7 @@ import { Component } from "react";
 import { connect } from "react-redux";
 
 class App extends Component {
+  //* this is localstate
   //  state={
   //    age:21
   //  }
