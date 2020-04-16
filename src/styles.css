@@ -2,3 +2,17 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.ageUp,
+.ageDown {
+  margin: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+}
+
+.historyItem{
+  list-style-type: none;
+  border: 5px;
+
+}
